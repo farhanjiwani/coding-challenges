@@ -10,6 +10,6 @@ These solutions will be written mostly in ES6+.
 
 * Advent of Code
   * 2019
-    * [Day 1](./tree/master/advent-of-code/2019/01)
-    * [Day 2](./tree/master/advent-of-code/2019/02)
+    * [Day 1](https://github.com/farhanjiwani/coding-challenges/tree/master/advent-of-code/2019/01)
+    * [Day 2](https://github.com/farhanjiwani/coding-challenges/tree/master/advent-of-code/2019/02)
     * ...more to come
