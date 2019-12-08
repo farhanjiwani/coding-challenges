@@ -142,7 +142,7 @@ The Fuel Counter-Upper needs to know the total fuel requirement. To find it, ind
     3454026
 </details>
 
-### Part Two
+### Part 2
 
 During the second Go / No Go poll, the Elf in charge of the Rocket Equation Double-Checker stops the launch sequence. Apparently, you forgot to include additional fuel for the fuel you just added.
 
