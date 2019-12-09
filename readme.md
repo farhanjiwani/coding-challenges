@@ -12,4 +12,5 @@ These solutions will be written mostly in ES6+.
   * 2019
     * [Day 1](https://github.com/farhanjiwani/coding-challenges/tree/master/advent-of-code/2019/01)
     * [Day 2](https://github.com/farhanjiwani/coding-challenges/tree/master/advent-of-code/2019/02)
+    * [Day 3](https://github.com/farhanjiwani/coding-challenges/tree/master/advent-of-code/2019/03) [Quick and Dirty] Currently very low efficiency solution...
     * ...more to come
