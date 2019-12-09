@@ -86,6 +86,7 @@ import { data, exampleData } from "/data.js";
             return acc;
         };
 
+        // the painful nested loop...
         pathA.forEach((a_coord, aStep) => {
             pathB.forEach((b_coord, bStep) => {
                 if (a_coord.x === b_coord.x && a_coord.y === b_coord.y) {
