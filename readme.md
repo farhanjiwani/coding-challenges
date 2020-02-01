@@ -8,9 +8,13 @@ These solutions will be written mostly in ES6+.
 
 ## Table of Contents
 
-* Advent of Code
-  * 2019
-    * [Day 1](https://github.com/farhanjiwani/coding-challenges/tree/master/advent-of-code/2019/01)
-    * [Day 2](https://github.com/farhanjiwani/coding-challenges/tree/master/advent-of-code/2019/02)
-    * [Day 3](https://github.com/farhanjiwani/coding-challenges/tree/master/advent-of-code/2019/03) [Quick and Dirty] Currently very low efficiency solution...
-    * ...more to come
+- Advent of Code
+  - 2019
+    - [Day 1](https://github.com/farhanjiwani/coding-challenges/tree/master/advent-of-code/2019/01)
+    - [Day 2](https://github.com/farhanjiwani/coding-challenges/tree/master/advent-of-code/2019/02)
+    - [Day 3](https://github.com/farhanjiwani/coding-challenges/tree/master/advent-of-code/2019/03) [Quick and Dirty] Currently very low efficiency solution...
+    - ...more to come
+- LeetCode
+  - Medium Difficulty
+    - [1302: Deepest Leaves Sum](https://github.com/farhanjiwani/coding-challenges/tree/master/leetcode/1302-deepest-leaves-sum)
+    - ...more to come
